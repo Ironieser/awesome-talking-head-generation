@@ -20,6 +20,19 @@ This repo mainly focus on the image-driven talking head generation task, but any
 7. CelebV-HQ [[`Download link`](https://github.com/CelebV-HQ/CelebV-HQ)].
 
 ---
+### cvpr 2023
+
+1. <span id = "16001"> [High-fidelity Generalized Emotional Talking Face Generation with Multi-modal Emotion Space Learning](https://arxiv.org/abs/2305.02572), `CVPR 2023`.
+2. <span id = "16001"> [Identity-Preserving Talking Face Generation with Landmark and Appearance Priors](https://arxiv.org/abs/2305.08293), `CVPR 2023`.
+3. <span id = "16001"> [High-Fidelity and Freely Controllable Talking Head Video Generation](https://arxiv.org/abs/2304.10168), `CVPR 2023`.
+5. <span id = "16001"> [LipFormer: High-fidelity and Generalizable Talking Face Generation with A Pre-learned Facial Codebook](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_LipFormer_High-Fidelity_and_Generalizable_Talking_Face_Generation_With_a_Pre-Learned_CVPR_2023_paper.pdf), `CVPR 2023, No Arxiv`.
+6. <span id = "16001"> [Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert](https://arxiv.org/abs/2303.17480), `CVPR 2023`.
+7. <span id = "16001"> [OTAvatar: One-shot Talking Face Avatar with Controllable Tri-plane Rendering](https://arxiv.org/abs/2303.14662), `CVPR 2023`.
+8. <span id = "16001"> [Progressive Disentangled Representation Learning for Fine-Grained Controllable Talking Head Synthesis](https://arxiv.org/abs/2211.14506), `CVPR 2023`.
+9. <span id = "16001"> [MetaPortrait: Identity-Preserving Talking Head Generation with Fast Personalized Adaptation
+](https://arxiv.org/abs/2212.08062), `CVPR 2023`.
+10. <span id = "16001"> [SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation](https://arxiv.org/abs/2211.12194), `CVPR 2023`.
+---
 
 ## Image-driven
 
