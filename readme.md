@@ -20,6 +20,18 @@ This repo mainly focus on the image-driven talking head generation task, but any
 7. CelebV-HQ [[`Download link`](https://github.com/CelebV-HQ/CelebV-HQ)].
 
 ---
+### One-shot
+1. <span id = "16001">FONT: Flow-guided One-shot Talking Head Generation with Natural Head Motions, `ICME 2023`.  
+2. <span id = "16001">OPT: One-shot Pose-Controllable Talking Head Generation, `ICASSP 2023`.
+3. <span id = "16001">StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles, `AAAI Oral 2023`.
+4. <span id = "16001">Progressive Disentangled Representation Learning for Fine-Grained Controllable Talking Head Synthesis, `CVPR 2023`.
+4. <span id = "16001">OTAvatar: One-shot Talking Face Avatar with Controllable Tri-plane Rendering, `CVPR 2023`.
+5. <span id = "16001">StyleHEAT: One-Shot High-Resolution Editable Talking Face Generation via Pre-trained StyleGAN, `ECCV 2022`.
+6. <span id = "16001">StyleTalker: One-shot Style-based Audio-driven Talking Head Video Generation, `Arxiv 2022.08`.
+ 
+
+
+---
 ### cvpr 2023
 
 1. <span id = "16001"> [High-fidelity Generalized Emotional Talking Face Generation with Multi-modal Emotion Space Learning](https://arxiv.org/abs/2305.02572), `CVPR 2023`.
