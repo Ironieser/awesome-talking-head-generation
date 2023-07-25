@@ -32,6 +32,17 @@ This repo mainly focus on the image-driven talking head generation task, but any
 
 
 ---
+### Speech + human motion + Talking face/gesture
+1. QPGesture, CVPR 2023,  
+3. GestureDiffuCLIP, TOG, 2023
+4. TalkSHOW, CVPR 2023,  
+5. DiffGesture, CVPR 2023,  
+6. HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion, SSIGGRAPH 2023, human motion dataset, (Need reading)
+7. GeneFace++, TPAMI 2023, Depth, Stable audio-driven
+8. OTAvatar, CVPR 2023, one-shot, tri-plane, controllable,
+9. PointAvatar, CVPR 2023, Avatar from video
+
+
 ### cvpr 2023
 
 1. <span id = "16001"> [High-fidelity Generalized Emotional Talking Face Generation with Multi-modal Emotion Space Learning](https://arxiv.org/abs/2305.02572), `CVPR 2023`.
