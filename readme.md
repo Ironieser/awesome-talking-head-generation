@@ -44,7 +44,8 @@ This repo mainly focus on the image-driven talking head generation task, but any
 
 ### Other 
 1. ExpCLIP: Bridging Text and Facial Expressions via Semantic Alignment, arxiv 2023.08, Semantic align between transcript, facial expression and facial img.
-2. Progressive Disentangled Representation Learning for Fine-Grained Controllable Talking Head Synthesis, . cvpr 2023, arxiv 22.11
+2. Progressive Disentangled Representation Learning for Fine-Grained Controllable Talking Head Synthesis,  cvpr 2023, arxiv 22.11
+3. Speech-Driven 3D Face Animation with Composite and Regional Facial Movements, ACM MM 2023, audio-driven 3d face, styleGAN,
 
 
 ### cvpr 2023
