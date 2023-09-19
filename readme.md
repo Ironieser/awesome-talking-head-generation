@@ -45,7 +45,7 @@ This repo mainly focus on the image-driven talking head generation task, but any
 
 ### cvpr 2023
 
-1. <span id = "16001"> [High-fidelity Generalized Emotional Talking Face Generation with Multi-modal Emotion Space Learning](https://arxiv.org/abs/2305.02572), `CVPR 2023`.
+1. <span id = "16001"> [High-fidelity Generalized Emotional Talking Face Generation with Multi-modal Emotion Space Learning](https://arxiv.org/abs/2305.02572), `CVPR 2023`. **No demo**
 2. <span id = "16001"> [Identity-Preserving Talking Face Generation with Landmark and Appearance Priors](https://arxiv.org/abs/2305.08293), `CVPR 2023`.
 3. <span id = "16001"> [High-Fidelity and Freely Controllable Talking Head Video Generation](https://arxiv.org/abs/2304.10168), `CVPR 2023`.
 5. <span id = "16001"> [LipFormer: High-fidelity and Generalizable Talking Face Generation with A Pre-learned Facial Codebook](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_LipFormer_High-Fidelity_and_Generalizable_Talking_Face_Generation_With_a_Pre-Learned_CVPR_2023_paper.pdf), `CVPR 2023, No Arxiv`.
